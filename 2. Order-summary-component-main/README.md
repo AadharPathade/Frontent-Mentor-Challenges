@@ -9,9 +9,7 @@ This is my solution to the [Order Summary Card challenge](https://www.frontendme
 - [Links](#links)
 - [Built With](#built-with)
 - [What I Learned](#what-i-learned)
-- [Useful Resources](#useful-resources)
-- [Author](#author)
-
+  
 ---
 
 ## Overview
@@ -29,8 +27,8 @@ Users should be able to:
 
 ## Links
 
-- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/your-solution-link)
-- [Live Site](https://yourusername.github.io/order-summary-card/)
+- [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-order-summary-component-using-flexbox-nIdraApstL)
+- [Live Site](https://frontent-mentor-challenges-yvfr.vercel.app/)
 
 ---
 
